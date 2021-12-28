@@ -1,9 +1,7 @@
-## Run commands
+## URL
 
-```bash
-source ./WS2/flask-app/venv/bin/activate
-python3 WS2/flask-app/app/flask-app.py
-```
+* https://fastapi-omdena.herokuapp.com/
+* https://fastapi-omdena.herokuapp.com/bmi
 
 ## Test
 
@@ -12,4 +10,4 @@ python3 WS2/flask-app/app/flask-app.py
 
 ---
 
-![screenshot](screenshots/get-request.png)
+![screenshot](screenshots/fast-api-response.png)
