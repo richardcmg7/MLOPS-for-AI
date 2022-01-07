@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/5cf649d57007411282c7bc367307cc52/artifacts
+end_time: 1641573649013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5cf649d57007411282c7bc367307cc52
+run_uuid: 5cf649d57007411282c7bc367307cc52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641572985085
+status: 3
+tags: []
+user_id: richardc7
